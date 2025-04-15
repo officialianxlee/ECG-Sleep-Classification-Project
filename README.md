@@ -56,4 +56,4 @@ If you use this codebase, please cite or acknowledge:
 ## 📬 Contact
 For questions or collaboration:
 - [GitHub](https://github.com/officialianxlee)
-- Email: [your_email@example.com]
+- Email: [ianx.lee@mail.utoronto.ca]
