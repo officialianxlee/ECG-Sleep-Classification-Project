@@ -15,7 +15,6 @@ This project evaluates and compares machine learning (ML) and deep learning (DL)
 | `CNNonlymodel.py` | Implements a 1D Convolutional Neural Network for sleep staging using raw ECG input. |
 | `CNN+BiLSTMmodel.py` | Combines a CNN with a Bidirectional LSTM to capture both spatial and temporal patterns. |
 | `MultiScalemodel.py` | Stacked model that integrates CNN, Transformer Encoder, and BiLSTM for multi-scale temporal learning. |
-| `README.md` | You’re reading it! |
 
 ## 🧪 Dataset
 - **PhysioNet Challenge 2018**: A large polysomnographic dataset including ECG, EEG, EOG, EMG, and annotations for sleep staging.
